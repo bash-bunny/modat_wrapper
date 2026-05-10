@@ -2,6 +2,14 @@
 
 Wrapper for the [Magnify Modat API](https://magnify.modat.io/).
 
+## Requirements
+
+Install the following packages:
+- `curl`
+- `sed`
+- `jq`
+- `bash`
+
 ## Installation
 
 ```bash
